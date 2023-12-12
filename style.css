@@ -1,0 +1,101 @@
+html, body {
+  font-family: Adobe Clean Regular;
+  text-align: center;
+}
+
+
+
+.form-submit-button {
+	background: #000000;
+	color: #fff;
+	border: 1px solid #eee;
+	border-radius: 20px;
+	text-shadow: none;
+  width: 100px;
+  height: 40px;
+
+}
+
+#ALL{
+  margin: auto;
+  width: 60%;
+  height:100%;
+
+}
+.form-submit-button:hover {
+	background: #016ABC;
+	color: #fff;
+	border: 1px solid #eee;
+	border-radius: 20px;
+	text-shadow: none;
+}
+
+.header {
+  background: #1abc9c;
+  color: white;
+  font-size: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-right: 500px;
+  padding-left: 500px;
+}
+
+#ToInput{
+  border: 2px solid;
+  border-radius: 200px;
+  width: 200px;
+  
+}
+#FromInput{
+  border: 2px solid;
+  border-radius: 200px;
+  width: 200px;
+}
+
+#toInput{
+  border: 2px solid #5e30eb;
+  border-radius: 4px;
+  
+}
+
+#frominputform{
+  border: 2px solid #5e30eb;
+  border-radius: 4px;
+}
+
+#gojek{
+  width: 80px;
+  height: 50px; 
+  background: #00AA13;
+  border-radius:5px;
+}
+
+#cdg{
+  text-align:center;
+  width: 200px;
+  height: 50px;
+  background: #0B60AF;
+  border-radius:5px;
+}
+
+#tada{
+  text-align:center;
+  width: 80px;
+  height: 50px;
+  background: #FDCF3E;
+   border-radius:5px;
+}
+
+#show-prices{
+  border:1px solid black;
+  border-collapse: collapse;
+  margin:auto;
+}
+
+
+#show-prices{
+  width: 600px;
+  height: 100px;
+}
+
